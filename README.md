@@ -1,6 +1,8 @@
 # hex-o-clock
 My take on the hex coloured clock which so many others have done. A bit different though, since it adds a slight gradient to white which I think is more sleek.
 
+> Doesn't really work if your clock is set to a 24 hour display, since at 00:00 until 01:00 it's just gonna display white.
+
 # Snapshots:
 
 ![](https://user-images.githubusercontent.com/22937740/28475728-b5fed5d0-6e4d-11e7-9e17-ce88a36249a7.png)
