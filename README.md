@@ -1,5 +1,5 @@
 # hex-clock
-My take on the hex coloured clock which so many others have done. Mine is a bit different, since it adds a slight gradient to white which I believe is more sleek.
+My take on the hex coloured clock which so many others have done. A bit different though, since it adds a slight gradient to white which I think is more sleek.
 
 # Snapshots:
 
