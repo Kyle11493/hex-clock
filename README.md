@@ -1,7 +1,7 @@
 # hex-o-clock
 My take on the hex coloured clock which so many others have done. A bit different though, since it adds a slight gradient to white which I think is more sleek.
 
-> Doesn't really work if your clock is set to a 24 hour display, since at 00:00 until 01:00 it's just gonna display white.
+> Working on the notorious white display bug, will fix in a day or two.
 
 # Snapshots
 
