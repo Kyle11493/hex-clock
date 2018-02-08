@@ -1,7 +1,7 @@
 # hex-o-clock
 My take on the hex coloured clock which so many others have done. A bit different though, since it adds a slight gradient to white which I think is more sleek.
 
-> Working on the notorious white display bug, will fix in a day or two.
+The program literally takes your local time in hours,minutes and seconds and converts it to hex, so don't expect any fast switches. Cheers.
 
 # Snapshots
 
