@@ -5,6 +5,13 @@
     vertical-align: middle;
 }
 
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
 #txt {
     font-family: "Courier New", Courier, monospace;
     font-size: 75px;
