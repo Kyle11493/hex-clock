@@ -19,7 +19,7 @@
 	document.getElementById('txt').innerHTML = h + ":" + m + ":" + s + "<br/>" + "#" + hh + ":" + mm + ":" + ss;
 		
 	
-    document.getElementById('obojajMe').style.backgroundImage = "linear-gradient(#" + h + "" + m + "" + s + ", white)";
+    document.getElementById('obojajMe').style.backgroundImage = "linear-gradient(#" + hh + "" + mm + "" + ss + ", white)";
     var t = setTimeout(startTime, 500);
 }
 
